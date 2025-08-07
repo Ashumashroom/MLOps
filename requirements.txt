@@ -1,0 +1,52 @@
+# Core ML Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+
+# Deep Learning (Optional based on use case)
+tensorflow
+torch
+torchvision
+
+# Experiment Tracking & Versioning
+mlflow
+dvc[s3]             # DVC with S3 support, remove [s3] if not using S3
+
+# Model Deployment
+fastapi
+uvicorn[standard]
+gunicorn
+
+# Model Serialization
+joblib
+pydantic
+
+# Monitoring & Logging
+prometheus-client
+loguru
+
+# Data Validation (optional)
+great_expectations
+
+# API Testing & Docs
+requests
+httpx
+
+# Notebooks (if working in Jupyter)
+jupyterlab
+ipykernel
+
+# Environment Management
+python-dotenv
+
+# Optional Visualization
+plotly
+tensorboard
+
+# Linting & Formatting
+black
+flake8
