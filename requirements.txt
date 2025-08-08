@@ -6,6 +6,14 @@ matplotlib
 seaborn
 xgboost
 lightgbm
+scikit-learn
+xgboost
+nltk
+pandas
+numpy
+dvc
+PyYAML
+
 
 # Deep Learning (Optional based on use case)
 tensorflow
